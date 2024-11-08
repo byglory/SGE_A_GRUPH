@@ -94,19 +94,19 @@ Amb ja podem dir que sabem com utilitzar l'aplicació de ventas
 
 
 
-![image7.png](/mnt/data/Ventas_images/image7.png)
+![image7.png](/image7.png)
 
-![image3.png](/mnt/data/Ventas_images/image3.png)
+![image3.png](/image3.png)
 
-![image5.png](/mnt/data/Ventas_images/image5.png)
+![image5.png](/image5.png)
 
-![image1.png](/mnt/data/Ventas_images/image1.png)
+![image1.png](/image1.png)
 
-![image8.png](/mnt/data/Ventas_images/image8.png)
+![image8.png](/image8.png)
 
-![image4.png](/mnt/data/Ventas_images/image4.png)
+![image4.png](/image4.png)
 
-![image6.png](/mnt/data/Ventas_images/image6.png)
+![image6.png](/image6.png)
 
-![image2.png](/mnt/data/Ventas_images/image2.png)
+![image2.png](/image2.png)
 
