@@ -18,24 +18,24 @@ Instal·lació
 
 Per començar tindrem que entrar a la nostra base de dades he instalar el mòdul, per fer això en el menu de inici li donarem al botó de aplicacions:
 
-
+![image1.png](/image1.png)
 
 Un cop aquí el següent que realitzarem es en el buscador posar la paraula ventas, fet això tindria que veure la següent aplicació, en la opció 2 li sortirà instalar:
 
-
+![image2.png](/image2.png)
 
 Utilització
 
 Un cop acabada la instal·lació veurem el següent menu, en aquest podrem veure els nostres pressupostos ja creats, també el podem filtrar per diferents formats de vista, anem a mirar com crear un pressupost, per això el que farem sera donar-li a “nuevo”
 
 
-
+![image3.png](/image3.png)
 
 
 Quan li donem veurem que apareix el següent menu
 
 
-
+![image4.png](/image4.png)
 
 
 
@@ -44,7 +44,7 @@ En aquest podrem configurar diferents apartats per fer el pressupost, el primer 
 
 
 
-
+![image5.png](/image5.png)
 
 
 
@@ -54,12 +54,12 @@ El que podem fer és seleccionar els perfils dels nostres clients, amb això pod
 
 Per el pressupost podem seleccionar els productes que el nostre client a demanat, com es pot veure en la següent foto el primer sera donar-li aquí:
 
-
+![image6.png](/image6.png)
 
 Un cop li donem veurem el següent:
 
 
-
+![image7.png](/image7.png)
 
 
 
@@ -68,7 +68,7 @@ Quan li donem a buscar un producte el que ens sortirà es un llistat dels produc
 
 
 
-
+![image8.png](/image8.png)
 
 
 
@@ -94,19 +94,19 @@ Amb ja podem dir que sabem com utilitzar l'aplicació de ventas
 
 
 
-![image7.png](/image7.png)
 
-![image3.png](/image3.png)
 
-![image5.png](/image5.png)
 
-![image1.png](/image1.png)
 
-![image8.png](/image8.png)
 
-![image4.png](/image4.png)
 
-![image6.png](/image6.png)
 
-![image2.png](/image2.png)
+
+
+
+
+
+
+
+
 
