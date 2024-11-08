@@ -1,5 +1,3 @@
-# Mòdul de Calendari
-
 Mòdul de Calendari
 
 
