@@ -49,6 +49,7 @@ Un cop li donem podrem veure un nou menu en pantalla, amb aquest podem configura
 
 -Selecciona els asistents
 
+![imagen_5.png](/imagen_5.png)
 ![imagen_4.png](/imagen_4.png)
 
 un cop fet això ja podem dir que sabem utiliza la funció de calendari de odoo.
@@ -60,7 +61,7 @@ Configuració
 El que anem a mirar es la configuració que podem realitzar a el calendari
 
 
-![imagen_5.png](/imagen_5.png)
+
 ![imagen_2.png](/imagen_2.png)
 
 
