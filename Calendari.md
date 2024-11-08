@@ -19,14 +19,14 @@ Per començar tindrem que entrar a la nostra base de dades he instalar el mòdul
 
 Un cop aquí el següent que realitzarem es en el buscador posar la paraula calendari, un cop fet això tindria que veure la següent aplicació:
 
-![imagen_6.png](/imagen_6.png)
+![imagen_8.png](/imagen_8.png)
 
 Utilització 
 
 Un cop instal·lat el calendari al obrir el que veiem és el menú principal del calendari, o si tenim una reunió la podrem veure, en cas de voler crear una reunion el que farem és donar li a “nuevo”:
 
 
-
+![imagen_9.png](/imagen_9.png)
 
 
 Un cop li donem podrem veure un nou menu en pantalla, amb aquest podem configurar de fer la reunió, podem configurar les següents coses:
@@ -76,12 +76,12 @@ La primera opció que mirarem será la de outlook
 
 Quant indiquem que volem sincronitzar amb outlook ens demana les següents dades
 
-![imagen_8.png](/imagen_8.png)
+
 
 
 Per contra part el gmail ens demana el mateix
 
-![imagen_9.png](/imagen_9.png)
+![imagen_6.png](/imagen_6.png)
 
 i amb això acabem de veure totes les opcions que el mòdul calendario ens facilita.
 
