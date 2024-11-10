@@ -115,7 +115,7 @@ El mòdul de planificació d'Odoo és una eina dissenyada per ajudar les emprese
 4. **Gestió d’empleats**: Proporciona una vista clara dels treballadors en curs i les tasques pendents, fomentant la col·laboració entre els membres de l'equip.  
    ![image14](/fotositzan/foto13.png)  
 5. **Informes i Anàlisis**: Permet generar informes per avaluar  els horaris, analitzar la càrrega de treball i identificar possibles millores en la planificació.  
-   ![image15](/fotositzan/foto14)
+   ![image15](/fotositzan/foto14.png)
 
    # Mòdul Empleats
 
