@@ -51,7 +51,7 @@ El mòdul de planificació d'Odoo és una eina dissenyada per ajudar les emprese
      
    ![image12](/fotositzan/foto11.png)  
 3. **Seguiment del material**: Ofereix eines per registrar els materials, cosa que ajuda a tenir les eines necessàries per a acomplir les tasques.  
-   ![image13](/fotositzan/foto12.png)  
+   ![image13](/fotositzan/foto14.png)  
      
 4. **Gestió d’empleats**: Proporciona una vista clara dels treballadors en curs i les tasques pendents, fomentant la col·laboració entre els membres de l'equip.  
    ![image14](/fotositzan/foto13.png)  
