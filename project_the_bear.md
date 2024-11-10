@@ -9,7 +9,7 @@
 * Al menú principal, fes clic a Aplicacions.
 
 
-![][image1]
+![image1]
 
 2. Buscar i instal·lar el mòdul de compra
 
