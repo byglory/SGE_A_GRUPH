@@ -38,22 +38,22 @@ Un cop instalat podem accedir des de la pestanya d’inici fent click a la icona
    # 2.Modul de Planificacio
 
 Per començar heu de instalar el mòdul “Planificacio”. Per aixo aneu a aplicacions i busqueu “Punto de venda”.   
-![image10](/fotositzan/foto10.png)
+![image10](/fotositzan/foto22.png)
 
 Un cop instalat podem accedir des de la pestanya d’inici fent click a la icona corresponent  
 ![image2](/fotositzan/foto2.png)  
-![image11](/fotositzan/foto11.png)
+![image11](/fotositzan/foto17.png)
 
 El mòdul de planificació d'Odoo és una eina dissenyada per ajudar les empreses a gestionar els horaris dels treballadors, els seus rols i el material . 
 
 1. **Gestió de Projectes**: Permet crear i gestionar projectes, assignar tasques als membres de l'equip i establir terminis. Els usuaris poden veure l'estat del projecte en temps real.  
 2. **Planificació de Horaris**: Facilita la creació de horaris, el seu seguiment i la distribució entre els membres de l'equip, ajudant a mantenir la productivitat i a garantir que les dades límits es compleixin.  
      
-   ![image12](/fotositzan/foto12.png)  
+   ![image12](/fotositzan/foto11.png)  
 3. **Seguiment del material**: Ofereix eines per registrar els materials, cosa que ajuda a tenir les eines necessàries per a acomplir les tasques.  
-   ![image13](/fotositzan/foto13.png)  
+   ![image13](/fotositzan/foto12.png)  
      
 4. **Gestió d’empleats**: Proporciona una vista clara dels treballadors en curs i les tasques pendents, fomentant la col·laboració entre els membres de l'equip.  
-   ![image14](/fotositzan/foto14.png)  
+   ![image14](/fotositzan/foto13.png)  
 5. **Informes i Anàlisis**: Permet generar informes per avaluar  els horaris, analitzar la càrrega de treball i identificar possibles millores en la planificació.  
-   ![image15](/fotositzan/foto15)
+   ![image15](/fotositzan/foto14)
